@@ -1,0 +1,25 @@
+
+body { 
+background-color: green;
+background-image:url("paysage2.jpg");
+background-repeat: no-repeat
+
+}
+ 
+div img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 500px;
+}
+
+p {color:blue}
+
+div.paysage {
+    background-color: white;
+    color: red;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+}
+
+	
